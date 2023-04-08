@@ -14,13 +14,13 @@ For this challenge, HTML and CSS are used for a sample professional portfolio, w
 - The Portfolio page was styled for multiple screen sizes, including tablets and mobile phones.
 - I also included some on hover effects for the various links and the projects on the page.
 
-### Website Link
+## Website Link
 https://mluron-arxfjs.github.io/Portfolio-Challenge
 
-### Screenshot
+## Screenshot
 ![Screeshot](images/Marie%20Luron%20Portfolio-1.png)
 
-### Contact me
+## Contact me
 - [GitHub](#https://github.com/mluron-ArxFjs)
 
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)mluron2@gmail.com
