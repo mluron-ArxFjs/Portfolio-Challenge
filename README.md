@@ -21,6 +21,6 @@ https://mluron-arxfjs.github.io/Portfolio-Challenge
 ![Screenshot](images/Marie%20Luron%20Portfolio-1.png)
 
 ## Contact me
-- ![image](GitHub-Mark.png)https://github.com/mluron-ArxFjs)
+- [GitHub](https://github.com/mluron-ArxFjs)
 
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)mluron2@gmail.com
